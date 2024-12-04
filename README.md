@@ -24,7 +24,7 @@ This project helps finds users on github and their profile inforation. You can s
 
 ## Usage
 
-![Alt text](./pics/Project 13 Screenshot.png)
+<br>![Alt text](./pics/Project 13 Screenshot.png)
 
 ## Tests
 
