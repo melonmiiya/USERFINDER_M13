@@ -17,5 +17,6 @@ This project is licensed under the MIT License.
 ## Contributing
 
   My github : https://github.com/melonmiiya
+  Video: https://drive.google.com/file/d/14L_qeL_byvrd3o3SK3uCTF3dTazsNYke/view?usp=sharing
   email: melonmiiya@gmail.com
 
