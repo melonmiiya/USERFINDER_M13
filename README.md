@@ -5,31 +5,9 @@
 
 This project helps finds users on github and their profile inforation. You can save them and it will randomly pull up different users.
 
-
-## Table of Contents
-
-- [Github-User-Finder](#edgithub-user-tracker)
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Tests](#tests)
-  - [License](#license)
-  - [Contributing](#contributing)
-
-
-## Installation
-
-
-
 ## Usage
 
-<br>![Alt text](./pics/screenshot.png)
-
-## Tests
-
-The application testes in insomnia.
-
+<br>![screenshot of my page](public/pics/screenshot.png)
 
 ## License
 
@@ -37,4 +15,7 @@ This project is licensed under the MIT License.
 
 
 ## Contributing
+
+  My github : https://github.com/melonmiiya
+  email: melonmiiya@gmail.com
 
